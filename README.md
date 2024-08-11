@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the data, code, and documentation for the dissertation project titled **"Geospatial Analysis and Impact Assessment of Bus Service Disruptions: A Comprehensive Study Utilizing Bus Open Data with an Interactive Web Application"**. The project was conducted as part of the requirements for the School of Computing and Creative Technologies at the University of the West of England, Bristol.
+This repository contains the data, code, and documentation for the dissertation project titled **"Geospatial Analysis and Assessment of Bus Service Disruptions: A Comprehensive Study Utilizing Bus Open Data with an Interactive Web Application"**. The project was conducted as part of the requirements for the School of Computing and Creative Technologies at the University of the West of England, Bristol.
 
 ## Project Description
 
