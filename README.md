@@ -1,5 +1,4 @@
-# UWE-BODS
-# Geospatial Analysis and Impact Assessment of Bus Service Disruptions
+# UWE-BODS / Geospatial Analysis and Assessment of Bus Service Disruptions
 
 ## Overview
 
