@@ -6,7 +6,7 @@ This repository contains the data, code, and documentation for the dissertation 
 
 ## Project Description
 
-The primary aim of this research is to enhance the understanding and management of bus service disruptions through geospatial analysis and the development of an interactive dashboard utilizing Bus Open Data Service (BODS) data. The study leverages real-time and historical data to analyze the spatial and temporal patterns of bus service disruptions and assess their impacts on urban mobility.
+The primary aim of this research is to improve the understanding and management of bus service disruptions through geospatial analysis and the development of an interactive web application utilizing Bus Open Data Service (BODS) data. The study leverages real-time and historical data to analyze the spatial and temporal patterns of bus service disruptions and assess their impacts on urban mobility.
 
 ## Key Features
 
